@@ -1,0 +1,2 @@
+INSERT INTO users(email, first_name, last_name, login, password) VALUES ('demo@demo.demo', 'pablo', 'picasso', 'demo', 'demo');
+INSERT INTO users(email, first_name, last_name, login, password) VALUES ('admin@demo.demo', 'salvador', 'dali', 'admin', 'admin');
